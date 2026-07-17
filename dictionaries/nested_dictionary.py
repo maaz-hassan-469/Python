@@ -7,3 +7,4 @@ info={"name":"maaz hassan",
 
 info["name"]="maaz"
 print(info)
+print(info["subjects"]["math"])
