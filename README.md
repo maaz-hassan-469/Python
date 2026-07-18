@@ -87,7 +87,7 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 | `for_loop.py` | E.g., Iterating over data structures using `for` loops. |
 | `while_loop.py` | E.g., Condition-based iteration with `while` loops, `break`, and `continue`. |
 | `loops1.py` | E.g., Iterating over string using `for` loops and `while` loops. |
-| `loop_with_list.py` | E.g., Iterating over string using `for` loops and `while` loops. |
+| `loop_with_list.py` | E.g., Iterating while loop over list. |
 
 ---
 
@@ -96,18 +96,30 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[file_name_1.py]` | E.g., Custom logic building and practice assignments. |
+| `area.py` | E.g., finding area with user inputs. |
+| `calculator.py` | E.g., creating calculator usinf standar if-elif-else structure. |
+| `loops.py` | E.g., iterating loops with different types using break and continue statements |
+| `square_remainder.py` | E.g., taking square and remainder. |
 
 ---
 
-### 📄 Main Root Directory Scripts
-*Standalone foundational scripts built directly inside the root folder.*
+### 📁 repo exercise
+*Dedicated compilation of chapter-wise logic tasks and structured code exercises.*
 
-| Core Files | Project/Script Description |
-| :--- | :--- |
-| `Covid_Data_Scrape.py` | Implementation of web scraping techniques to collect automated data. |
-| `Data_Cleaning.py` | Script focused on structural data refinement, handling missing values, and formatting. |
-| `phone.py` | Custom modular application/helper file implementing core logic. |
+| Files Contained |
+| :--- |
+| `chap_1_exe_1.py` |
+| `chap_2_exe_1.py` |
+| `chap_2_exe_2.py` |
+| `chap_3_exe_1.py` |
+| `chap_3_exe_2.py` |
+| `chap_3_exe_3.py` |
+| `chap_3_exe_4.py` |
+| `chap_3_exe_5.py` |
+| `chap_3_exe_6.py` |
+| `chap_4_exe_1.py` |
+| `chap_4_exe_2.py` |
+| `chap_5_exe_1.py` |
 
 ---
 
@@ -115,13 +127,7 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 To maintain a clean and modular architecture, my advanced framework implementations and data science tracks are managed in dedicated, separate repositories:
 
-*   🤖 **[LangChain Projects Repository]([https://github.com/maazhassaan469/langchain-deepdive](https://github.com/maaz-hassan-469/LANGCHAIN))** – Building LLM-powered autonomous agents and structured prompt pipelines.
-*   📊 **[Data Science Foundations Repository]([https://github.com/maazhassaan469/data-science-core](https://github.com/maaz-hassan-469/NUMPY))** – Intensive data manipulation, multi-dimensional arrays, and processing using **NumPy** and **Pandas**.
-
----
-
-## ⚙️ How to Clone & Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/maazhassaan469/python-core-journey.git](https://github.com/maazhassaan469/python-core-journey.git)
+*   🤖 **[LangChain Projects Repository] – Building LLM-powered autonomous agents and structured prompt pipelines.
+*   https://github.com/maaz-hassan-469/LANGCHAIN
+*   📊 **[Data Science Foundations Repository] – Intensive data manipulation, multi-dimensional arrays, and processing using **NumPy** and **Pandas**.
+*   https://github.com/maaz-hassan-469/NUMPY
