@@ -13,11 +13,11 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 ### 📁 chap 1(modules,comments and pips)
 *Introduction to the Python ecosystem, environment setup, and basic syntax.*
 
-| Files Contained | 
+| Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[problem1.py]` | 
-| `[problem2.py]` | 
-| `[problem3.py]` | 
+| `[problem1.py]` | E.g., Writing the first poem program. |
+| `[problem2.py]` | E.g., Importing built-in and external modules using pip. |
+| `[problem3.py]` | E.g., Importing built-in and external modules using pip. |
 
 ---
 
@@ -26,8 +26,9 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[file_name_1.py]` | E.g., Declaring integers, floats, and string variables. |
-| `[file_name_2.py]` | E.g., Performing arithmetic and logical operations. |
+| `input.py]` | E.g., how to take input . |
+| `[typecasting.py]` | E.g., Performing typecasting with different datatypes. |
+| `[variable.py]` | E.g., how to create and work with variables . |
 
 ---
 
@@ -36,8 +37,10 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[file_name_1.py]` | E.g., Practicing string slicing `str[0:4]` and negative indexing. |
-| `[file_name_2.py]` | E.g., Using functions like `.replace()`, `.find()`, and `.count()`. |
+| `[concatenation.py]` | E.g., Practicing string concatenation, how to combine two strings. |
+| `[methods_strings.py]` | E.g., Using functions like `.replace()`, `.find()`, and `.count()`. |
+| `[skipvalue.py]` | E.g., working on string indexing. |
+| `[slicing.py]` | E.g., how to slice strings also with negative slicing. |
 
 ---
 
@@ -105,8 +108,8 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 To maintain a clean and modular architecture, my advanced framework implementations and data science tracks are managed in dedicated, separate repositories:
 
-*   🤖 **[LangChain Projects Repository](https://github.com/maazhassaan469/langchain-deepdive)** – Building LLM-powered autonomous agents and structured prompt pipelines.
-*   📊 **[Data Science Foundations Repository](https://github.com/maazhassaan469/data-science-core)** – Intensive data manipulation, multi-dimensional arrays, and processing using **NumPy** and **Pandas**.
+*   🤖 **[LangChain Projects Repository]([https://github.com/maazhassaan469/langchain-deepdive](https://github.com/maaz-hassan-469/LANGCHAIN))** – Building LLM-powered autonomous agents and structured prompt pipelines.
+*   📊 **[Data Science Foundations Repository]([https://github.com/maazhassaan469/data-science-core](https://github.com/maaz-hassan-469/NUMPY))** – Intensive data manipulation, multi-dimensional arrays, and processing using **NumPy** and **Pandas**.
 
 ---
 
