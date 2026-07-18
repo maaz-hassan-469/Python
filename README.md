@@ -15,9 +15,9 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[problem1.py]` | E.g., Writing the first poem program. |
-| `[problem2.py]` | E.g., Importing built-in and external modules using pip. |
-| `[problem3.py]` | E.g., Importing built-in and external modules using pip. |
+| `problem1.py` | E.g., Writing the first poem program. |
+| `problem2.py` | E.g., Importing built-in and external modules using pip. |
+| `problem3.py` | E.g., Importing built-in and external modules using pip. |
 
 ---
 
@@ -26,9 +26,9 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `input.py]` | E.g., how to take input . |
-| `[typecasting.py]` | E.g., Performing typecasting with different datatypes. |
-| `[variable.py]` | E.g., how to create and work with variables . |
+| `input.py` | E.g., how to take input . |
+| `typecasting.py` | E.g., Performing typecasting with different datatypes. |
+| `variable.py` | E.g., how to create and work with variables . |
 
 ---
 
@@ -37,10 +37,10 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[concatenation.py]` | E.g., Practicing string concatenation, how to combine two strings. |
-| `[methods_strings.py]` | E.g., Using functions like `.replace()`, `.find()`, and `.count()`. |
-| `[skipvalue.py]` | E.g., working on string indexing. |
-| `[slicing.py]` | E.g., how to slice strings also with negative slicing. |
+| `concatenation.py` | E.g., Practicing string concatenation, how to combine two strings. |
+| `methods_strings.py` | E.g., Using functions like `.replace()`, `.find()`, and `.count()`. |
+| `skipvalue.py` | E.g., working on string indexing. |
+| `slicing.py` | E.g., how to slice strings also with negative slicing. |
 
 ---
 
@@ -49,8 +49,10 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[file_name_1.py]` | E.g., Creating lists, modifying items, and using `.append()` or `.pop()`. |
-| `[file_name_2.py]` | E.g., Creating immutable tuples and testing count/index methods. |
+| `list.py` | E.g., Creating lists, modifying items, and also nested list. |
+| `methods.py` | E.g., using methods like .remove(), .sort(), .insert() etc. |
+| `slicing_list.py` | E.g., how to slice the list. |
+| `tuples.py` | E.g., creatign tuples, single value tuple and empty tuple etc. |
 
 ---
 
@@ -59,8 +61,10 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[file_name_1.py]` | E.g., Creating dictionaries, fetching keys, and updating values. |
-| `[file_name_2.py]` | E.g., Working with unique sets, `union()`, and `intersection()`. |
+| `dictionary.py` | E.g., Creating dictionaries, nested dictionaries, fetching keys, and updating values. |
+| `dic_methods.py` | E.g., Working with functions like `keys()`, and `items()` etc. |
+| `problem_set.py` | E.g., why we need sets. |
+| `set.py` | E.g., Working with unique sets, `union()`, and `intersection()`. |
 
 ---
 
@@ -69,8 +73,9 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[file_name_1.py]` | E.g., Implementing standard `if-elif-else` code structures. |
-| `[file_name_2.py]` | E.g., Logical operators (`and`, `or`) inside conditions. |
+| `even_odd.py` | E.g., finding even or odd using if-elif-else structure. |
+| `greatest_number.py` | E.g.,finding greatest number using if-elif-else and Logical operators (`and`, `or`) inside conditions. |
+| `if_else_program.py` | E.g., Implementing standard `if-else` code structures.. |
 
 ---
 
@@ -79,8 +84,10 @@ Below is the complete mapping of each folder. Every section contains a dedicated
 
 | Files Contained | Description / What's Happening |
 | :--- | :--- |
-| `[file_name_1.py]` | E.g., Iterating over data structures using `for` loops. |
-| `[file_name_2.py]` | E.g., Condition-based iteration with `while` loops, `break`, and `continue`. |
+| `for_loop.py` | E.g., Iterating over data structures using `for` loops. |
+| `while_loop.py` | E.g., Condition-based iteration with `while` loops, `break`, and `continue`. |
+| `loops1.py` | E.g., Iterating over string using `for` loops and `while` loops. |
+| `loop_with_list.py` | E.g., Iterating over string using `for` loops and `while` loops. |
 
 ---
 
